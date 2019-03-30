@@ -1,2 +1,2 @@
 # HelloWorld
-Hello World (in Java)
+Hello World (NetBeans/Java version)
