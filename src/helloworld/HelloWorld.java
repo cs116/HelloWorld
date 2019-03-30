@@ -2,6 +2,7 @@
  * File:        HelloWorld.java
  * Author:      George Corser (george@corser.com)
  * Date:        March 30, 2019
+ * GitHub:      https://github.com/cs116/HelloWorld
  * 
  * Description: This program prints "Hello, world"
  */
