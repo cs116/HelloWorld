@@ -17,6 +17,7 @@ public class HelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        // this is a comment
         System.out.println("Hello, world");
     }
     
