@@ -1,3 +1,3 @@
-# HelloWorld
-Hello World (NetBeans/Java version)
-Includes diagram created using Structorizer (see folder: duagrams)
+# HelloWorld <br />
+Hello World (NetBeans/Java version) <br />
+Includes diagram created using Structorizer (see folder: duagrams) <br />
